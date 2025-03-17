@@ -9,6 +9,6 @@ This repository is comprehensive resource for learning genomics and machine lear
  🔹Reproducible Research – Providing well-documented R scripts to ensure transparency and reproducibility.
 
 ## Topics Covered So Far
-✔ Microarray Data Analysis Overview in R – Check it here
+✔ Microarray Data Analysis Overview in R – [Check it here](https://github.com/AI-Biotechnology-Bioinformatics/Genomics-and-ML/blob/main/microarray_analysis/microarray_workflow.R)
 
 💡 New tutorials, workflows, and resources will be added gradually. Stay tuned for updates!
